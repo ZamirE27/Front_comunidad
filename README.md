@@ -6,7 +6,7 @@
 **Frontend Comunidad** is a modern Single Page Application (SPA) for a developer community, designed to foster collaboration, learning, and networking. Users can register, create profiles, post content, chat in real time, receive notifications, and manage their settings—all within a visually appealing and responsive interface.
 
 ---
- 
+
 ## Features
 
 - **User Authentication:** Secure login and registration with role selection.
@@ -18,7 +18,6 @@
 - **Modern UI:** Custom styles, icons, and interactive components.
 
 ---
-
 
 ## Folder Structure
 
